@@ -92,9 +92,7 @@ I'm a dedicated **Back-End Developer** based in Hyderabad, India, with over **4+
 
 ## 🎓 Education
 
-* **Masters of Computer Applications** - National Institute Of Technology Trichy (NIT Trichy)
-* **B. Sc Computer Science** - Osmania University, Hyderabad
-
+* **National Institute Of Technology Trichy (NIT Trichy)**
 ---
 
 ## ⚡ Extracurricular
