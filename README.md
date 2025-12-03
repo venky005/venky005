@@ -94,11 +94,3 @@ I'm a dedicated **Back-End Developer** based in Hyderabad, India, with over **4+
 
 * **National Institute Of Technology Trichy (NIT Trichy)**
 ---
-
-## ⚡ Extracurricular
-
-* An avid sports enthusiast, I have secured 1st position in **Shotput** and **Basketball** at inter-departmental sports events (SPIELMAC’18).
-* Completed **MARATHON, SPORTSFETE 18**.
-* **Positions of Responsibility** : Member of Public Relation Committee, VERSION’19 (An All-India MCA Technical
-Meet, NIT Trichy)
-• **Cultural Activities**: Participated in Skit and Mime, SPIELMAC’18, an event conducted by SOFTREC, NIT Trichy
